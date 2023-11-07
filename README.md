@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @mangoNisa
-- 🌱 I’m currently learning GoLang
 
 <!---
 mangoNisa/mangoNisa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
